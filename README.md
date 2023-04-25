@@ -2,9 +2,8 @@
 
 <div align=center><img src="https://user-images.githubusercontent.com/58266987/223579721-5163fdba-c842-47d5-8d0f-6d140e37a3dc.gif"/></div>
 
-- 👋 Hi, I’m @IgorEdu
-- 👀 I’m interested in HTML, CSS, JavaScript, Ruby, Delphi
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Ruby, Delphi
+Sou um desenvolvedor de software apaixonado por resolver problemas e criar soluções tecnológicas inovadoras para ajudar as pessoas em todo o mundo. Com experiência em JavaScript, Java, CSS e HTML, além de infraestrutura e redes, estou atualmente cursando Análise e Desenvolvimento de Sistemas e possuo a certificação Scrum Fundamentals pela SCRUMstudy.
+Tenho experiência em gerenciamento de servidores, administração de redes e solução de problemas de infraestrutura em ambientes de alta pressão. Estou sempre buscando aprender novas tecnologias e linguagens de programação para expandir meu conhecimento e habilidades. 
 
 <h3 align=center>Contact</h3>
 <div align=center>
