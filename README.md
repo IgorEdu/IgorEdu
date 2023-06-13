@@ -11,7 +11,10 @@ BootCamps Concluídos:
 
 CodeCamps Concluídos:
 
-[<img src="https://hermes.dio.me/tracks/e3092c08-98c4-4131-aec1-f3affe6db45d.png" width="80">](https://www.dio.me/certificate/1C89A1F4/share)[<img src="https://hermes.dio.me/tracks/cc708075-49ef-4974-85ca-c9a33a19e32d.png" width="60">](https://www.dio.me/certificate/C91AA20A/share)
+<div>
+<a href="https://www.dio.me/certificate/1C89A1F4/share"><img src="https://hermes.dio.me/tracks/e3092c08-98c4-4131-aec1-f3affe6db45d.png" style="width:80px;">
+<a href="https://www.dio.me/certificate/C91AA20A/share"><img src="https://hermes.dio.me/tracks/cc708075-49ef-4974-85ca-c9a33a19e32d.png" style="width:60px;">
+</div>
 
 
 <h3 align=center>Contact</h3>
@@ -23,6 +26,4 @@ CodeCamps Concluídos:
 
   <p></p>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorEdu&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorEdu&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorEdu&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorEdu&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
