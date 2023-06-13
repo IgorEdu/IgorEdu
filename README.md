@@ -6,7 +6,8 @@ Sou um desenvolvedor de software apaixonado por resolver problemas e criar solu�
 Tenho experiência em gerenciamento de servidores, administração de redes e solução de problemas de infraestrutura em ambientes de alta pressão. Estou sempre buscando aprender novas tecnologias e linguagens de programação para expandir meu conhecimento e habilidades. 
 
 BootCamps Concluídos:
-[<img src="https://hermes.dio.me/tracks/e3092c08-98c4-4131-aec1-f3affe6db45d.png" width="80">](https://www.dio.me/certificate/234D31CE/share)
+
+[<img src="https://hermes.dio.me/tracks/0edd1398-7cee-4295-98cf-8dd5a41d28fb.png" width="80">](https://www.dio.me/certificate/234D31CE/share)
 
 CodeCamps Concluídos:
 
