@@ -5,9 +5,12 @@
 Sou um desenvolvedor de software apaixonado por resolver problemas e criar soluções tecnológicas inovadoras para ajudar as pessoas. Com experiência em JavaScript, Java, CSS e HTML, além de infraestrutura e redes, estou atualmente cursando Análise e Desenvolvimento de Sistemas e possuo a certificação Scrum Fundamentals pela SCRUMstudy.
 Tenho experiência em gerenciamento de servidores, administração de redes e solução de problemas de infraestrutura em ambientes de alta pressão. Estou sempre buscando aprender novas tecnologias e linguagens de programação para expandir meu conhecimento e habilidades. 
 
-CodeCamps Concluidos:
+BootCamps Concluídos:
+[<img src="https://hermes.dio.me/tracks/e3092c08-98c4-4131-aec1-f3affe6db45d.png" width="80">](https://www.dio.me/certificate/234D31CE/share)
 
-[<img src="https://hermes.dio.me/tracks/e3092c08-98c4-4131-aec1-f3affe6db45d.png" width="70">](https://www.dio.me/certificate/1C89A1F4/share)[<img src="https://hermes.dio.me/tracks/cc708075-49ef-4974-85ca-c9a33a19e32d.png" width="60">](https://www.dio.me/certificate/C91AA20A/share)
+CodeCamps Concluídos:
+
+[<img src="https://hermes.dio.me/tracks/e3092c08-98c4-4131-aec1-f3affe6db45d.png" width="80">](https://www.dio.me/certificate/1C89A1F4/share)[<img src="https://hermes.dio.me/tracks/cc708075-49ef-4974-85ca-c9a33a19e32d.png" width="60">](https://www.dio.me/certificate/C91AA20A/share)
 
 
 <h3 align=center>Contact</h3>
