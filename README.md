@@ -2,8 +2,7 @@
 
 <div align=center><img src="https://user-images.githubusercontent.com/58266987/223579721-5163fdba-c842-47d5-8d0f-6d140e37a3dc.gif"/></div>
 
-Sou um desenvolvedor de software apaixonado por resolver problemas e criar soluções tecnológicas inovadoras para ajudar as pessoas. Com experiência em JavaScript, Java, CSS e HTML, além de infraestrutura e redes, estou atualmente cursando Análise e Desenvolvimento de Sistemas e possuo a certificação Scrum Fundamentals pela SCRUMstudy.
-Tenho experiência em gerenciamento de servidores, administração de redes e solução de problemas de infraestrutura em ambientes de alta pressão. Estou sempre buscando aprender novas tecnologias e linguagens de programação para expandir meu conhecimento e habilidades. 
+Profissional com mais de 4 anos na área de TI, habilidades em Java e experiência em bancos de dados SQL, suporte de sistemas ERP. Familiarizado com metodologias ágeis e organização de projeto. Além disso, possuo conhecimentos em SpringBoot, Hibernate e Git, com familiaridade em tecnologias para o desenvolvimento de aplicações web no padrão MVC. Minha trajetória também inclui experiência em infraestrutura e redes, o que proporciona uma visão abrangente e integrada dos projetos.
 
 
 CodeCamps Concluídos:
